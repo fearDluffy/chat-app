@@ -92,8 +92,6 @@ npm run build
 Start Production Server
 npm start
 
-📸 Screenshots
-<p align="center"> <img src="frontend/public/screenshot-for-readme.png" width="85%"> </p>
 🤝 Contributing
 
 Pull requests and suggestions are welcome!
