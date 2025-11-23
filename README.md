@@ -2,7 +2,7 @@
 A modern, beautifully designed **Realtime Chat Application** built with the **MERN Stack**, **Socket.io**, **TailwindCSS**, and **Zustand** — featuring authentication, cloud uploads, online status, and production-ready performance.
 
 <p align="center">
-  <img src="frontend/public/screenshot-for-readme.png" width="85%" alt="Chat App Preview" />
+  <img width="1918" height="967" alt="sign-up" src="https://github.com/user-attachments/assets/544274a1-09da-4dcd-ba17-19be94e0df64" />
 </p>
 
 ---
@@ -40,7 +40,8 @@ A modern, beautifully designed **Realtime Chat Application** built with the **ME
 
 ## 🌙 Dark Mode Preview  
 <p align="center">
-  <img src="frontend/public/screenshot-for-readme.png" width="85%" alt="Dark Mode Preview" />
+  <img width="1900" height="968" alt="themes" src="https://github.com/user-attachments/assets/f1181255-ef8a-407a-b365-af9edf2c5d66" />
+<img width="1910" height="962" alt="home" src="https://github.com/user-attachments/assets/9ae32d53-35ea-424e-b579-7b1693fadd40" />
 </p>
 
 ---
